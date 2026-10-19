@@ -1,0 +1,20 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+====================================================================================
+ID     Name                Type            Average  Grade  Scholarship
+------------------------------------------------------------------------------------
+S001   Amina Otieno        Regular          86.00%  A      Yes
+S002   Brian Mwangi        Scholarship      94.00%  A      Yes
+S003   Grace Wanjiku       Regular          67.00%  C      No
+S004   David Kiptoo        Scholarship      83.67%  A      Yes
+S005   Fatima Noor         Regular          54.00%  D      No
+S006   Peter Ochieng       Scholarship      76.33%  B      No
+------------------------------------------------------------------------------------
+CLASS SUMMARY
+Number of students: 6
+Highest average: Brian Mwangi (94.00%)
+Lowest average: Fatima Noor (54.00%)
+Overall class average: 76.83%
+Scholarship eligible: 3
+
+Scholarship rules (illustrative project rules):
+Regular: average >= 85%; Scholarship-track: average >= 80% and every mark >= 70%.
